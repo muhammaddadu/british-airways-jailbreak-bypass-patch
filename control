@@ -1,0 +1,9 @@
+Package: com.lyke.british-airways-jailbreak-bypass-patch
+Name: british-airways-jailbreak-bypass-patch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Muhammad Dadu
+Author: Muhammad Dadu
+Section: Tweaks
