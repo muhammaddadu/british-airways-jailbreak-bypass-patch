@@ -33,11 +33,16 @@ the generation of a class list and an automatic constructor.
 %end
 */
 
+%hook JailBrokeManager
 
-%hook BAFlights
--(id)displayName {
-    
-    return @"BAFlights MD";
-    
++ (id)isJailbroken {
+	%orig;
+	return NO;
 }
+
++ (id)checkJailbreak {
+	%orig;
+	return NO;
+}
+
 %end
