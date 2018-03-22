@@ -3,7 +3,7 @@ Name: british-airways-jailbreak-bypass-patch
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: This is a package built upon Theos and prevents British Airways mobile app to detect Jailbreak
 Maintainer: Muhammad Dadu
 Author: Muhammad Dadu
 Section: Tweaks
